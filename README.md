@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay
-- 👀 I’m interested in 
+- 👀 Here to Automate and Learn Automation 🔥
 - 🌱 I’m currently learning Acquia Hosting Practices
 - 📫 How to reach me -> Slack -> ajay.agrawal@acquia.com
 
